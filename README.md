@@ -1,12 +1,10 @@
 # Hey! 👋🏽 I'm Mas'ud Hashim 
 - 👀 I’m interested in Software engineering 
-- 🌱 I’m currently learning C, shell, python, React, React-native, Rust, Golang ,PHP...
-- 💞️ I’m looking to collaborate on an opensourse projectc  ...
+- 🌱 I’m currently learning C, shell, python, React, React-native, Rust, Golang, PHP...
+- 💞️ I’m looking to collaborate on open-source projects...
 - 📫 How to reach me masudhashimb@gmail.com 
-- ⚒️currently working an a project about innovationg the public Transportationorttaion in Nigeria 
+- ⚒️currently working on a project about innovating the public Transportationorttaion in Nigeria 
 - 😏 connect with me here https://masudhashim.tech
-
-### Skills
 
 <!-- <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -18,14 +16,22 @@
 </p> -->
 
 
-<img src="https://img.shields.io/badge/javascript%20-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TypeScript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
-
 <p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
+
+## Languages
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,)](https://skillicons.dev)
+
+## Design
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,figma,ps,ai&theme=light)](https://skillicons.dev)
+
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,typescript,mongodb,tailwind,vite&theme=light)](https://skillicons.dev)
+
+## Other Skills
+
+[![My Skills](https://skillicons.dev/icons?i=bash,discord,git,github,linux,netlify,postman,vscode&theme=light)](https://skillicons.dev)
 
 
 <!---
