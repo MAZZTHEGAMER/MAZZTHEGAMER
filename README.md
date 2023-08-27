@@ -21,6 +21,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,)](https://skillicons.dev)
 
+
 ## Design
 
 [![My Skills](https://skillicons.dev/icons?i=css,html,figma,ps,ai&theme=light)](https://skillicons.dev)
