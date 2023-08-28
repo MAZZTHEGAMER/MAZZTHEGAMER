@@ -31,7 +31,7 @@
 
 ## Other Skills
 
-[![My Skills](https://skillicons.dev/icons?i=bash,discord,git,github,linux,netlify,postman,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,discord,git,github,linux,netlify,postman,firebase,vscode&theme=light)](https://skillicons.dev)
 
 
 <!---
