@@ -26,11 +26,11 @@
 [![My Skills](https://skillicons.dev/icons?i=css,html,figma,ps,ai&theme=light)](https://skillicons.dev)
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,typescript,mongodb,tailwind,vite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwind,vite&theme=light)](https://skillicons.dev)
 
 ## Other Skills
 
-[![My Skills](https://skillicons.dev/icons?i=bash,discord,git,github,linux,netlify,postman,firebase,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,discord,git,github,linux,netlify,firebase,vscode&theme=light)](https://skillicons.dev)
 
 
 <!---
