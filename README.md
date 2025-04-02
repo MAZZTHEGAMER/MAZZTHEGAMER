@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects...
 - 📫 How to reach me masudhashimb@gmail.com 
 - ⚒️currently working on a project about innovating the public Transportationorttaion in Nigeria 
-- 😏 connect with me here https://masudhashim.tech
+- 😏 connect with me here https://masudhashim.framer.website
 
 <!-- <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
